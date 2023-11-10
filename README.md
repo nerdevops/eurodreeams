@@ -1,7 +1,7 @@
 # EuroDreams function 40c6 * 5c1 
 > This code represent in numbers what's the chance of winning the Eurodreams.
 
-[EuroDreams](/img/eurodreams.png)
+    ![EuroDreams](/img/eurodreams.png)
 
 ```python 
 from num2words import num2words
