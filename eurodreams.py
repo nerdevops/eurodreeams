@@ -10,7 +10,7 @@ def calculate_factorial():
     return int(result)
 
 def convert_to_words():
-    words = num2words(calculate_factorial())  # Call the function here
+    words = num2words(calculate_factorial()) 
     return words
 
-print(convert_to_words(),calculate_factorial())  # Call the function here
+print(convert_to_words(),calculate_factorial()) 
