@@ -1,8 +1,9 @@
-# EuroDreams function 40c6 * 5c1 
+# EuroDreams function 
 > This code represent in numbers what's the chance of winning the Eurodreams.
 
 ![EuroDreams](/img/eurodreams.png)
 
+### The main Function is: 40c6 * 5c1
 ```python 
 from num2words import num2words
 # 40c6 * 5c1
